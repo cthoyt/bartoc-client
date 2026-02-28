@@ -1,0 +1,4 @@
+# see https://docs.codecov.com/v4.6/docs/codecov-yaml
+ignore:
+  - "src/bartoc_client/__main__.py"
+  - "src/bartoc_client/cli.py"
