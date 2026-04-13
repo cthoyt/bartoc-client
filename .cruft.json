@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/cthoyt/cookiecutter-snekpack",
-  "commit": "30df910cc6fe0b8c5ab780114596fa65ebcdf1eb",
+  "commit": "0675a6e00f6d2bdc78df6e6eb5ab66b7a6ff1a54",
   "checkout": null,
   "context": {
     "cookiecutter": {
@@ -26,7 +26,7 @@
       "__gh_slug": "cthoyt/bartoc-client",
       "__package_name_dashed": "bartoc-client",
       "_template": "https://github.com/cthoyt/cookiecutter-snekpack",
-      "_commit": "30df910cc6fe0b8c5ab780114596fa65ebcdf1eb"
+      "_commit": "0675a6e00f6d2bdc78df6e6eb5ab66b7a6ff1a54"
     }
   },
   "directory": null
